@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(135deg, #8755c9, #00a1e3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  .data-section {
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+  }
+  
+  .data-card {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-right: 20px; /* Add margin between data cards */
+  }
+  
+  .data-card:last-child {
+    margin-right: 0; /* Remove margin from the last data card */
+  }
+  
+  h2 {
+    margin-top: 0;
+    color: #333;
+  }
+  
+  #total-cases {
+    color: #f44336;
+    font-size: 24px;
+  }
+  
+  #total-deaths {
+    color: #795548;
+    font-size: 24px;
+  }
+  
+  #total-recovered {
+    color: #4caf50;
+    font-size: 24px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
