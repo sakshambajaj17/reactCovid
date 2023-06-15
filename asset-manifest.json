@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactCovid/static/css/main.1a61ced5.css",
+    "main.js": "/reactCovid/static/js/main.f7041612.js",
+    "static/js/787.f63e59e4.chunk.js": "/reactCovid/static/js/787.f63e59e4.chunk.js",
+    "index.html": "/reactCovid/index.html",
+    "main.1a61ced5.css.map": "/reactCovid/static/css/main.1a61ced5.css.map",
+    "main.f7041612.js.map": "/reactCovid/static/js/main.f7041612.js.map",
+    "787.f63e59e4.chunk.js.map": "/reactCovid/static/js/787.f63e59e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a61ced5.css",
+    "static/js/main.f7041612.js"
+  ]
+}
